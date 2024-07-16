@@ -90,6 +90,3 @@ I am a full-cycle developer and can bring your idea to life. I have 6 years of e
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
